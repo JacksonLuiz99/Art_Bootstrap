@@ -124,5 +124,25 @@ footer{
     border-top: 1px solid #ccc;
     height: 250px;
     pad: 30px;
-    
+}
+
+footer i{
+    font-size: 20px;
+}
+
+#social-icons-container{
+    padding: 25px;
+}
+
+#social-icons-container div{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    margin: 25px;
+}
+
+a:hover i{
+    color: #c1b696;
 }
